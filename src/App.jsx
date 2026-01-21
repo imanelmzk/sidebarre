@@ -120,7 +120,7 @@ const Sidebar = () => {
       '>
         <h1>Page d'acceuil</h1>
         <p className='text-sm font-normal mt-2 text-gray-500'>
-          Le contenue de l'application s'affichera ici
+          On continue la création du site web
         </p>
 
       </div>
