@@ -26,4 +26,9 @@ This project is created for learning purposes, focusing on component structure, 
 ---
 
 ## 📂 Project Structure
-
+  - src/
+    │── components/
+    │ └── Sidebar.jsx
+    │── App.jsx
+    │── main.jsx
+    │── index.css
