@@ -38,7 +38,7 @@ This project is created for learning purposes, focusing on component structure, 
 
 ## ⚙️ Installation & Setup
   - 1. Clone the repository:
-     - git clone https://github.com/imanelmzk/react-sidebar-app.git
+      * git clone https://github.com/imanelmzk/react-sidebar-app.git
   - 2 cd react-sidebar-app
   - 3 npm install
   - 4 npm run dev
@@ -56,7 +56,7 @@ This project is created for learning purposes, focusing on component structure, 
   - Convert to reusable layout component
 
 ## 👩‍💻 Author
-  - Imane
+  - Imane LAMZAOUAK
   - Learning React, Tailwind CSS, and modern frontend, then backend development.
 
 ## 📄 License
